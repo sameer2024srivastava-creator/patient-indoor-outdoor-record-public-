@@ -1,2 +1,2 @@
-ch# patient-indoor-outdoor-record-public-
+# patient-indoor-outdoor-record-public-
 for commercial purposes 
